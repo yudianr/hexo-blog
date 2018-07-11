@@ -9,7 +9,7 @@ brief: "雨点儿的来临"
 reward: true
 ---
 
-![兴奋，激动](/assets/blogImg/01.JPG)     
+![兴奋，激动](/assets/blogImg/01.png)     
 > Nothing is true, everything is permitted.万物皆虚，万事皆允。        
 
 *—— 雨点儿*

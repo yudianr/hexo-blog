@@ -34,10 +34,10 @@ filename_case: 0
 render_drafts: false
 post_asset_folder: false
 relative_link: false
-highlight:                                                                                                                                                                                                   
-  enable: true                                                                                                                                                                                               
-  auto_detect: true                                                                                                                                                                                          
-  line_number: true                                                                                                                                                                                          
+highlight:                                                                                                                                                       
+  enable: true                                                                                                                                                   
+  auto_detect: true                                                                                                                                              
+  line_number: true                                                                                                                                              
   tab_replace: ''
 
 # Category & Tag
@@ -111,7 +111,7 @@ deploy:
 sitemap:
     path: sitemap.xml
 baidusitemap:
-    path: baidusitemap.xm
+    path: baidusitemap.xml
 
 feed:
     type: atom
