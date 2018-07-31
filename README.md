@@ -25,3 +25,7 @@ Reference
 - http://luojh.me/2018/01/28/blog2/ <br><br>
 - http://luckykun.com/ <br><br>
 - http://lawlite.me/ <br><br>
+- https://github.com/xiaweizi/BackupBlog
+- http://xiaweizi.cn/
+- https://www.jianshu.com/p/f5c184047e72
+- https://mrdear.cn/

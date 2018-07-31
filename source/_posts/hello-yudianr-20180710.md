@@ -3,6 +3,7 @@ layout: post
 title: "Hey, 雨点儿"
 date: 2018-07-10 21:00
 comments: true
+toc: true
 tags:
 	- 孩子
 brief: "雨点儿的来临"
